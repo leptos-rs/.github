@@ -1,14 +1,16 @@
-# Leptos
-
 <picture>
-    <source srcset="logos/Leptos_logo_pref_dark_RGB.svg" media="(prefers-color-scheme: dark)">
-    <img src="logos/Leptos_logo_RGB.svg" alt="Leptos Logo">
+    <source srcset="https://raw.githubusercontent.com/leptos-rs/.github/main/logos/Leptos_logo_pref_dark_RGB.svg" media="(prefers-color-scheme: dark)">
+    <img src="https://raw.githubusercontent.com/leptos-rs/.github/main/logos/Leptos_logo_RGB.svg" alt="Leptos Logo">
 </picture>
 
 [![crates.io](https://img.shields.io/crates/v/leptos.svg)](https://crates.io/crates/leptos)
 [![docs.rs](https://docs.rs/leptos/badge.svg)](https://docs.rs/leptos)
 [![Discord](https://img.shields.io/discord/1031524867910148188?color=%237289DA&label=discord)](https://discord.gg/YdRAhS7eQB)
 [![Matrix](https://img.shields.io/badge/Matrix-leptos-grey?logo=matrix&labelColor=white&logoColor=black)](https://matrix.to/#/#leptos:matrix.org)
+
+<center>
+<h1>Leptos</h1>
+</center>
 
 **Leptos** is a fine grained, reactive, full-stack web framework for building fast and interactive web applications in Rust. It leverages fine-grained reactivity to offer a highly efficient and modern development experience, drawing inspiration from frameworks like SolidJS, and Sycamore.
 
