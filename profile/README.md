@@ -5,7 +5,7 @@
 
 [![crates.io](https://img.shields.io/crates/v/leptos.svg)](https://crates.io/crates/leptos)
 [![docs.rs](https://docs.rs/leptos/badge.svg)](https://docs.rs/leptos)
-[![Discord](https://img.shields.io/discord/1031524867910148188?color=%237289DA&label=discord)](https://discord.gg/YdRAhS7eQB)
+[![Discord](https://img.shields.io/discord/1031524867910148188?color=%237289DA&label=discord)][1]
 [![Matrix](https://img.shields.io/badge/Matrix-leptos-grey?logo=matrix&labelColor=white&logoColor=black)](https://matrix.to/#/#leptos:matrix.org)
 
 <center>
@@ -62,6 +62,8 @@ There are several people in the community using Leptos right now for many websit
 
 ## Come hang out with us!
 
-- **Discord:** Join our [Discord server](https://discord.gg/leptos) to chat with the community and the core team. We're a friendly bunch, and we're always happy to help out!
+- **Discord:** Join our [Discord server][1] to chat with the community and the core team. We're a friendly bunch, and we're always happy to help out!
 - **GitHub:** Found a bug? Want to contribute? Head over to our [GitHub repository](https://github.com/leptos-rs/leptos) and open an issue or a pull request.
 - **Matrix:** We also have a [Matrix room](https://matrix.to/#/#leptos:matrix.org) if you prefer that over Discord.
+
+[1]: https://discord.gg/YdRAhS7eQB
